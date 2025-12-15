@@ -1,1 +1,0 @@
-# пакет procedural_textures
